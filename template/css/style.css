@@ -12,7 +12,7 @@
 body {
   background: #be659c;
   color: #550e46;
-  font-family: "Encode Sans Expanded", sans-serif;
+  font-family: "Encode Sans Extrabold", sans-serif;
 }
 
 a {
@@ -39,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLEX MONO", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -202,7 +202,7 @@ h6 {
 
 #intro .intro-info .btn-get-started,
 #intro .intro-info .btn-services {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Encode Sans SemiBold", sans-serif;
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -267,7 +267,7 @@ h6 {
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Encode Sans Extrabold", sans-serif;
   font-weight: 500;
 }
 
@@ -699,7 +699,7 @@ h6 {
 }
 
 #why-us .counters span {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Encode Sans Extrabold", sans-serif;
   font-weight: bold;
   font-size: 48px;
   display: block;
@@ -709,7 +709,7 @@ h6 {
 #why-us .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Encode Sans SemiBold", sans-serif;
   font-size: 14px;
   color: #cce5ff;
 }
@@ -931,7 +931,7 @@ h6 {
 
 #team .member {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   position: relative;
   border-radius: 50%;
   overflow: hidden;
@@ -960,13 +960,13 @@ h6 {
 }
 
 #team .member .member-info-content {
-  margin-top: 50px;
+  margin-top: 60px;
   transition: margin 0.2s;
 }
 
 #team .member:hover .member-info {
   background:#b384ab;
-  opacity: 1;
+  opacity: 2;
   transition: 0.4s;
 }
 
@@ -976,21 +976,28 @@ h6 {
 }
 
 #team .member h4 {
-  font-weight: 700;
-  margin-bottom: 2px;
-  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 1px;
+  font-size: 14.5px;
+  color: #fff;
+}
+
+#team .member h5 {
+  font-weight: 400;
+  margin-bottom: 1px;
+  font-size: 12px;
   color: #fff;
 }
 
 #team .member span {
   font-style: italic;
   display: block;
-  font-size: 13px;
+  font-size: 10px;
   color: #fff;
 }
 
 #team .member .social {
-  margin-top: 15px;
+  margin-top: 13px;
 }
 
 #team .member .social a {
@@ -1003,7 +1010,7 @@ h6 {
 }
 
 #team .member .social i {
-  font-size: 18px;
+  font-size: 16px;
   margin: 0 2px;
 }
 
@@ -1069,7 +1076,7 @@ h6 {
   margin: 0 0 10px 0;
   padding: 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLEX MONO", sans-serif;
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -1079,7 +1086,7 @@ h6 {
 #contact .contact-about p {
   font-size: 14px;
   line-height: 24px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLEX MONO", sans-serif;
   color: #888;
 }
 
@@ -1206,7 +1213,7 @@ h6 {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLEX MONO", sans-serif;
   color: #fff;
   font-weight: 400;
   letter-spacing: 3px;
@@ -1217,7 +1224,7 @@ h6 {
   font-size: 13px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLEX MONO", sans-serif;
   color: #ecf5ff;
 }
 
